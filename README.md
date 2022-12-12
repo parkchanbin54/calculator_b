@@ -1,2 +1,2 @@
-#  CI/CD project
+#  CI/CD projec
 
