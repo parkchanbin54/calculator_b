@@ -1,2 +1,2 @@
 #  CI/CD project
-## CICD for spring application
+## CICD for spring applicatio
